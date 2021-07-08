@@ -6,7 +6,7 @@
 > > * Toaster
 > > * Button
 > > * EditTextView
-> > * Radion Button 
+> > * Radio Button 
 > ### 2. Working with Intent 
 > * Sending data from one activity to another using intent -> MainActivity
 > * Receiving data -> DisplayDataActivity
