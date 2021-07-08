@@ -1,5 +1,6 @@
 package com.example.android_basics
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -34,7 +35,15 @@ class MainActivity : AppCompatActivity() {
                     "Sun"
                 }
                 println("\nName Manikanta\n email ${email?.text} \n $clicked")
+                var intent:Intent =Intent(this@MainActivity,DisplayData::class.java).apply{
+                    putExtra("name","manikanta")
+                    putExtra("email",email?.text.toString())
+                    putExtra("SelectedOption",clicked)
+                }
+                startActivity(intent)
             }
+
         })
     }
 }
+
