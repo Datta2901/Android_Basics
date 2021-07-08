@@ -10,3 +10,6 @@
 > ### 2. Working with Intent 
 > * Sending data from one activity to another using intent -> MainActivity
 > * Receiving data -> DisplayDataActivity
+> ### 3. View Visibility 
+> * How to set view for any widget  
+> * Here it shows how to work with buttons ->ViewVisibilityActivity
