@@ -13,3 +13,5 @@
 > ### 3. View Visibility 
 > * How to set view for any widget  
 > * Here it shows how to work with buttons ->ViewVisibilityActivity
+> ### 4. Seek Bar -> SeekBarActivity
+> * How seek Bar works
