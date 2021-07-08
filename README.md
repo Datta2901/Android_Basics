@@ -2,7 +2,7 @@
 
 > Contains implementations of
 > 
->1.Linear Layout -> MainActivity
+> ### 1.Linear Layout -> MainActivity
 > > * Toaster
 > > * Button
 > > * EditTextView
