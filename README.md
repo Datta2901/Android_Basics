@@ -18,5 +18,5 @@
 > ### 5. Rating Bar -> RatingBarActivity
 > * How rating Bar works
 > ### 6. WebView -> WebViewActivity
-> * How webview works
+> * How WebView works
 > ### 7. 
