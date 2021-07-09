@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
 import android.widget.SeekBar
+import android.widget.Toast
 
 class SeekBar : AppCompatActivity() {
     private var text:TextView ?= null
@@ -25,12 +26,11 @@ class SeekBar : AppCompatActivity() {
             }
 
             override fun onStartTrackingTouch(seekBar: SeekBar?) {
-
+                Toast.makeText(this@SeekBar,"SeekBar Clicked!!",Toast.LENGTH_SHORT).show()
             }
             override fun onStopTrackingTouch(seekBar: SeekBar?) {
-
+                Toast.makeText(this@SeekBar,"SeekBar Stopped!!",Toast.LENGTH_SHORT).show()
             }
-
         })
 
     }
