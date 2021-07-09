@@ -15,3 +15,5 @@
 > * Here it shows how to work with buttons ->ViewVisibilityActivity
 > ### 4. Seek Bar -> SeekBarActivity
 > * How seek Bar works
+> ### 5. Rating Bar -> RatingBarActivity
+> * How rating Bar works
