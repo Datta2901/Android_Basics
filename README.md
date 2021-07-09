@@ -17,3 +17,6 @@
 > * How seek Bar works
 > ### 5. Rating Bar -> RatingBarActivity
 > * How rating Bar works
+> ### 6. WebView -> WebViewActivity
+> * How webview works
+> ### 7. 
