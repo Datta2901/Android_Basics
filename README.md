@@ -19,4 +19,7 @@
 > * How rating Bar works
 > ### 6. WebView -> WebViewActivity
 > * How WebView works
-> ### 7. 
+> ### 7. AlertDialogue -> AlertDialogueActivity
+> * If we press a button we will get alert message
+> * If we press back button it will give you alert box
+>
