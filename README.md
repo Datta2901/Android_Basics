@@ -24,3 +24,5 @@
 > * If we press back button it will give you alert box
 > ### 8.Custom Alert Dialogue
 > * If we press a button we can get our custom activity -> Activity_login_for_custom_alert_dialogue
+> ### 9. Menu -> MenuActivity
+> * To display menu in app
