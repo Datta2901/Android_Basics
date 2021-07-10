@@ -24,7 +24,7 @@ class AlertCustomDialogBox : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_alert_dialog_box)
+        setContentView(R.layout.activity_custom_alert_dialog_box)
         btn1 = findViewById<Button>(R.id.button2)
         btn2 = findViewById<Button>(R.id.button3)
         btn3 = findViewById<Button>(R.id.button4)

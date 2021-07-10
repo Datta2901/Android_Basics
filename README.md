@@ -1,4 +1,4 @@
-## This directory contains implementations of Various Widgets present  in Android
+## This directory contains implementations of Various Widgets present  in Android using Kotlin
 
 > Contains implementations of
 > 
