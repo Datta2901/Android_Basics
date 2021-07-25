@@ -3,10 +3,10 @@
 > Contains implementations of
 > 
 > ### 1.Linear Layout -> MainActivity
-> > * Toaster
-> > * Button
-> > * EditTextView
-> > * Radio Button 
+> * Toaster
+> * Button
+> * EditTextView
+> * Radio Button 
 > ### 2. Working with Intent 
 > * Sending data from one activity to another using intent -> MainActivity
 > * Receiving data -> DisplayDataActivity
