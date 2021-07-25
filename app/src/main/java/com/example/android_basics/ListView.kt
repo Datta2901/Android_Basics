@@ -23,7 +23,7 @@ class ListView : AppCompatActivity() {
         lv?.adapter = arrayAdapter
 
         lv?.setOnItemClickListener { parent, view, position, id ->
-            Toast.makeText(this, "Clicked name :"+" "+users[position],Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "You clicked :"+" "+users[position],Toast.LENGTH_SHORT).show()
         }
     }
 }
