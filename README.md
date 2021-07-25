@@ -26,3 +26,5 @@
 > * If we press a button we can get our custom activity -> Activity_login_for_custom_alert_dialogue
 > ### 9. Menu -> MenuActivity
 > * To display menu in app
+> ### 10. List View ->ListView Activity 
+> * How to create a listView
