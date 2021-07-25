@@ -73,14 +73,13 @@ class AlertDialogBox : AppCompatActivity() {
         builder = AlertDialog.Builder(this@AlertDialogBox)
         builder?.setTitle("This is Alert Dialogue!!")
         builder?.setMessage("Are u sure??")
-            ?.setNegativeButton("cancel",null)
-            ?.setPositiveButton("Ok", object:DialogInterface.OnClickListener{
-                override fun onClick(dialog: DialogInterface?, which: Int) {
-                    finish()
-//                    super.onBackPressed()
-                }
-            })
-
+                ?.setNegativeButton("cancel",null)
+                ?.setPositiveButton("Ok", object:DialogInterface.OnClickListener{
+                    override fun onClick(dialog: DialogInterface?, which: Int) {
+                        finish()
+                    //  super.onBackPressed()
+                    }
+                })
         var alert:AlertDialog ?= null
         alert = builder?.create()
         alert?.show()
